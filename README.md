@@ -222,12 +222,6 @@ transform.position = Vector3.Lerp(
 7. **经验值 + 升级**（`Game/ScoreManager.cs`）—— 数据驱动 UI
 8. **ShaderLab**（`Shaders/`）—— 自定义 Sprite Shader
 
-## 致谢
-
-- **教程来源**：B 站 Unity 教学系列（搜索 "Hero Born Unity 教程"）+ Unity 官方 RPG 教学包
-- **角色 / 动画素材**：Unity 官方 RPG 教学包（CC0 / Public Domain）
-- **TextMesh Pro**：Unity 内置
-
 ## 协议
 
 本仓库仅用于学习目的。Unity 官方 RPG 教学包的资产版权归 Unity Technologies 所有。
